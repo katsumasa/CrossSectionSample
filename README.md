@@ -1,0 +1,2 @@
+# CrossSectionSample
+オブジェクト断面図を表示する為のShaderのサンプル
